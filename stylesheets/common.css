@@ -17,8 +17,6 @@ header {
 footer {
     text-align: center;
 }
-
-
 a {
     color: #08c;
     text-decoration: none;
@@ -32,7 +30,6 @@ hr {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #fff;
 }
-
 table {
     border-collapse: collapse;
     width: 100%;
